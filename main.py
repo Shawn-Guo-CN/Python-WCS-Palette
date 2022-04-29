@@ -1,4 +1,3 @@
-import colour
 import csv
 from colormath.color_objects import LabColor, sRGBColor
 from colormath.color_conversions import convert_color
